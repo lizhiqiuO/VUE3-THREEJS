@@ -1,6 +1,6 @@
 <template>
   <div class="test">
-    小王，我好困hhhhh
+    小王，我好困hhhhh, 我准备开始摸鱼了
     <HeartFilled :style="{ color: 'hotpink' }" />
     <a-icon type="step-forward" />
   </div>
